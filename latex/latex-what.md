@@ -16,3 +16,5 @@ So, in the world of document enchantment, LaTeX is the spellbinding tool that tu
 > **LaTeX is like an markup language which turns plain text into a document without any using graphical user interface.**
 
 > **The pronunciation of "LaTeX" is typically "lay-tech" or "lah-tech." It is not pronounced like the English word "latex" (LAY-teks), which refers to a type of rubber or a liquid used in paint.**
+
+Next: [Why Use LaTeX?](./latex-why.md)
