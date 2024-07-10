@@ -8,14 +8,6 @@ Welcome to the "Crafting Documents With LaTeX" repository! This guide will provi
 2. [What is LaTeX?](./latex-what.md)
 3. [Why Use LaTeX?](./latex-why.md)
 4. [How to Use LaTeX](./latex-how.md)
-   - [Getting Started](./latex-how.md#getting-started)
-   - [Writing Your First Document](./latex-how.md#writing-your-first-document)
-5. [Advanced Topics](./up-and-going.md)
-   - [Figures and Tables](./up-and-going.md#figures-and-tables)
-   - [Bibliography](./up-and-going.md#bibliography)
-   - [Custom Commands and Environments](./up-and-going.md#custom-commands-and-environments)
-   - [Packages](./up-and-going.md#packages)
-6. [Resources](./up-and-going.md#resources)
 
 ## Introduction
 
@@ -43,7 +35,3 @@ I would like to thank the top contributor for their significant contributions to
 ## Contributing
 
 Contributions are welcome! If you find any errors or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
